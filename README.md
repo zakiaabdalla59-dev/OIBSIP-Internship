@@ -4,7 +4,7 @@ Welcome to the official repository for the **Oasis Infobyte Data Science Interns
 
 ---
 
-## 📌 Task Overview
+## Task Overview
 
 | Task # | Project Name | Description | Key Tech / Algorithms | Folder Path |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ Welcome to the official repository for the **Oasis Infobyte Data Science Interns
 
 ---
 
-## 🛠️ Repository Structure
+## Repository Structure
 
 ```
 OIBSIP/
@@ -40,7 +40,7 @@ OIBSIP/
 
 ---
 
-## 💻 Tech Stack & Requirements
+## Tech Stack & Requirements
 
 - **Language**: Python 3.10+
 - **Data Manipulation**: `pandas`, `numpy`
@@ -51,7 +51,7 @@ OIBSIP/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 ```bash
@@ -74,7 +74,7 @@ Navigate to any task directory and open the corresponding `.ipynb` file to view 
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 - **Name**: Zakia Abdalla
 - **GitHub**: [@zakiaabdalla59-dev](https://github.com/zakiaabdalla59-dev)
